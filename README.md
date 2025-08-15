@@ -1,170 +1,220 @@
-# Welcome to Semester 3!
+# Course Logistics - Fall 2025/2024
 
-> [!CAUTION]
->
-> ### Disclaimer
->
-> This repository contains educational materials for personal and academic use only.
-> **The textbooks included are intended for study and review purposes.**
-> Users are responsible for ensuring that their use of this content complies with applicable copyright laws.
->
-> If you own the copyright to any material in this repository and believe it should not be available here,
-> please [**raise an issue**](https://github.com/MalayKedia/Sem_3/issues), and we will promptly address the issue.
+## Quick Course Reference
 
-### [Link to Damp Resources](https://iitbacin.sharepoint.com/:f:/s/DAMP_Resources_CSE/EmdYbWG7Y4tAhZ8izig5k5kBtvgFoi8SFLluyZTfgFWuOw)
+| Course       | Title                                      | Instructor      | Slot/Timing | Venue   |
+|--------------|--------------------------------------------|-----------------|-------------|---------|
+| CS 215       | Data Interpretation and Analysis          | Ajit Rajwade    | Slot 3     | LA 002  |
+| CS 228       | Logic in Computer Science                 | Krishna S.      | Slot 4      | TBD     |
+| CS 230       | Digital Logic Design + Computer Architecture | Sayandeep Saha | T         | TBD     |
+| CS 231       | Digital Logic Lab                         | Professor Biswa | Tue:2-3:30/3:30-5         | Lab     |
+| CS 213   | Data Structure and Algorithms             | Ashutosh Gupta  | Slot 6      | LA001   |
+| CS 293   | Data Structure and Algorithms Lab            | Ashutosh Gupta  | Frid:2-5      | SL3   |
+## CS 215: Data Interpretation and Analysis
 
-## Contents
+### Instructor & Contact
+- **Professor**: Ajit Rajwade  
+- **Course Website**: [https://www.cse.iitb.ac.in/~ajitvr/CS215_Fall2025/](https://www.cse.iitb.ac.in/~ajitvr/CS215_Fall2025/)  
+- **Office Hours**: Immediately after class  
 
-- [**TIMETABLE**](#timetable)
-- [**Course Policies**](#course-policies)
-  - [**CS 228: Logic for Computer Science**](#cs-228--logic-for-computer-science)
-  - [**CS 215: Data Analysis and Interpretation**](#cs-215--data-analysis-and-interpretation)
-  - [**CS 213 / CS 293: Data Structures and Algorithms**](#cs-213--cs-293--data-structures-and-algorithms)
-  - [**CS 230 / CS 231: Digital Logic Design and Computer Architecture**](#cs-230--cs-231--digital-logic-design-and-computer-architecture)
-- [**Popular Electives**](#popular-electives)
+### Schedule
+- **Slot**: 3  
+- **Timings**:
+  - Monday: 10:35 AM - 11:30 AM  
+  - Tuesday: 11:35 AM - 12:30 PM  
+  - Thursday: 8:30 AM - 9:25 AM  
+- **Venue**: LA 002 (Lecture Hall Complex)  
 
-## TIMETABLE
+### Grading Breakdown
+- Midterm: 25% (closed notes, formulae provided)  
+- Final Exam: 30% (closed notes, formulae provided)  
+- Quizzes: 15% (2-3 quizzes total)  
+- Assignments: 30% (team-based, ~5 assignments + possible project)  
 
-Only core courses are mentioned.
+### Important Rules & Policies
+- **Attendance**: Mandatory (90%+ required, <90% may result in DX)  
+- **Software**: Extensive MATLAB usage  
+  - **MATLAB Access**: [http://matlab.iitb.ac.in/matlab/](http://matlab.iitb.ac.in/matlab/) (via IITB network with LDAP credentials)  
+- **Platform**: Assignments on Moodle  
+- **Textbook**: "Introduction to Probability and Statistics for Engineers and Scientists" (5th Edition)  
+- **Tutorials**: 2-3 tutorials before midsem, 2-3 after midsem (conducted by TAs)  
 
-> [!NOTE]
->
-> You will not be referring to this, hopefully, and will not blame any of the contributors for missing your extra course
+### Class Rules
+1. Come to class on time (5 minutes early, not 5 minutes late)  
+2. Submit homework on Moodle on time  
+3. Be interactive - ask questions in/out of class, during office hours, via email, on Moodle forums  
+4. **Academic Honesty**: Strict adherence required, violations reported to DADAC  
 
-| Day       | 8:30 - 9:25 | 9:30 - 10:25 | 10:35 - 10:55 | 11:05 - 11:30 | 11:35 - 12:30 | Lunch | 2:00 - 3:25   | 3:30 - 4:55   |
-| --------- | ----------- | ------------ | ------------- | ------------- | ------------- | ----- | ------------- | ------------- |
-| Monday    |             | DLDCA        | **DAI**       | **DAI**       | Logic         |       |               | Economics     |
-| Tuesday   | Logic       |              | **DLDCA**     | **DLDCA**     | DAI           |       | **DLDCA Lab** | **DLDCA Lab** |
-| Wednesday |             |              |               | **DSA**       | **DSA**       |       |               |               |
-| Thursday  | DAI         | Logic        |               |               | DLDCA         |       |               | Economics     |
-| Friday    |             |              |               | **DSA**       | **DSA**       |       | **DSA Lab**   | **DSA Lab**   |
+---
 
-## Course Policies
+## CS 228: Logic in Computer Science
 
-### [CS 228: Logic for Computer Science](CS228)
+### Instructor & Contact
+- **Professor**: Krishna S.  
+- **Primary Textbook**: Huth and Ryan - "Logic for CS"  
+- **Platform**: Piazza for discussions  
 
-**Venue**: LA 002
+### Schedule
+- **Slot**: 4  
+- **Tutorial**: Tue-7-8:30pm 
 
-**Tutorial**: Monday, 9:00 PM to 10:00 PM
+### Course Content (Mini-zoo of Logics)
+- Propositional Logic  
+- First Order Logic  
+- Monadic Second Order Logic  
+- Propositional Dynamic Logic  
+- Linear Temporal Logic  
+- Computational Tree Logic  
+- More if time permits  
 
-**Grading**:
+### Grading Breakdown
+- **Pre-announced Quizzes**: 16%  
+  - Quiz 1: Aug 22, 2025  
+  - Quiz 2: Oct 17, 2025  
+- **Pop Quizzes**: 4%  
+- **Assignments**: 20%  
+- **Midsem**: 25%  
+- **Endsem**: 35%  
 
-- Quizzes: 30%
-- Midsem: 30% (2 hours)
-- Endsem: 40% (3 hours)
+### Resources
+- Additional Materials: Lecture notes/monographs as needed  
+- Platform: Piazza for discussions  
 
-**Quiz Dates**:
+---
 
-- Quiz 1: Wednesday, Aug 21, 08:30 AM
-- Quiz 2: Wednesday, Oct 16, 08:30 AM
-- Quiz 3: Wednesday, Oct 30, 08:30 AM
-- Midsem: Thursday, Sep 19, 01:30 PM - 03:30 PM
-- Endsem: Saturday, Nov 16, 01:30 PM - 04:30 PM
+## CS 230: Digital Logic Design + Computer Architecture
 
-**Course Website(s)**:
+### Instructor & Contact
+- **Professor**: Sayandeep Saha  
+- **Email**: sayandeepsaha@cse.iitb.ac.in  
+  - **Subject Format**: `[CS230]: Group ID: <your subject>`  
+  - **Important**: Always CC your group TA  
+  - **DO NOT email**: sayandeepsaha@iitb.ac.in OR sayandeep@cse.iitb.ac.in  
+- **Office Hours**: Monday 10:30 AM - 11:00 AM (after class) or by appointment  
+- **Course Website**: [https://cs230-iitb.github.io/autumn-2025/](https://cs230-iitb.github.io/autumn-2025/)  
 
-- [**Piazza**](https://piazza.com/iit_bombay/fall2024/cs228)
+### Related Lab Course
+- **CS 231**: Digital Logic Lab (taught by Professor Biswa)  
+  - **Lab Policy**: Labs may extend beyond 3 hours - complete at your convenience  
+  - **First Week**: No lab  
 
-### [CS 215: Data Analysis and Interpretation](CS215)
+### Grading Breakdown
+- Mid Semester: 30%  
+- End Semester: 40%  
+- Quizzes: 30% (two quizzes combined)  
+- Tutorials: Not graded  
+- Home Assignments: Not graded  
 
-**Venue**: LA 001
+### Important Dates (Tentative)
+- Tutorial I: 2nd/3rd week of Aug  
+- Tutorial II: 1st/2nd week of Sept  
+- Quiz I: 1st/2nd week of Sept  
+- Mid-Sem: 3rd week of Sept  
+- Tutorial III: 2nd week of Oct  
+- Tutorial IV: 4th week Oct/1st week Nov  
+- Quiz II: 4th week Oct/1st week Nov  
+- Last Class: Nov 7th  
 
-**Tutorial**:
+### Attendance & Class Policies
+- **Regular Classes**: No attendance requirement  
+- **Tutorials & Quizzes**: Mandatory attendance  
+- **Late Entry**: Do not enter if >5 minutes late  
+- **In-Class**: No open screens during lectures  
+- **Questions**: Stop and ask if you don't understand  
 
-**Grading**:
+### Communication & Support
+- **Platform**: Piazza ([https://piazza.com/iit_bombay/summer2025/cs230](https://piazza.com/iit_bombay/summer2025/cs230))  
+  - **Access Code**: cs230  
+- **Grades**: Moodle for final grades  
+- **TA System**: Group-wise TAs (first point of contact)  
+- **Groups**: To be announced and assigned this week  
 
-- In-class quizzes: 15%
-- Midsem: 25%
-- Endsem: 35%
-- Programming and written homework: 25%
-- Attendance mandatory (**DX GRADE below 80%**)
-- Contact : cs215-ta@googlegroups.com or **Moodle**
+### Exam Policies
+- **Absences**: Email with proper justification ASAP (preferably within a day)  
+- **Documentation**: Institute-approved documents required  
+- **Crib Sessions**: Handle through proper crib forms (no emails)  
+- **Adjustments**: No date adjustments (asking loses 2 marks)  
 
-**Quiz Dates**:
+### Academic Integrity
+- **Policies**: [https://www.iitb.ac.in/newacadhome/procedures201521July.pdf](https://www.iitb.ac.in/newacadhome/procedures201521July.pdf)  
+- **Punishments**: [https://www.iitb.ac.in/newacadhome/punishments201521July.pdf](https://www.iitb.ac.in/newacadhome/punishments201521July.pdf)  
 
-- Midsem: Wednesday, Sep 18, 01:30 PM - 03:30 PM
-- Endsem: Thursday, Nov 14, 01:30 PM - 04:30 PM
+---
 
-**Course Website(s)**:
+## CS 213/293: Data Structure and Algorithms
 
-- [**Course webpage**](https://docs.google.com/document/d/1hJsh_aPXoxw60PqZGtcri7NGXg4RPfQXIgstBEEuYc4)
-- [**Moodle**](https://moodle.iitb.ac.in/course/view.php?id=3946) - All materials will be uploaded on **Moodle**, announcements via **Moodle**.
+### Instructor & Contact
+- **Professor**: Ashutosh Gupta  
 
-### [CS 213](CS213) / [CS 293](CS293): Data Structures and Algorithms
+### Schedule
+- **Slot**: 6  
+- **Lectures**: Wednesday-Friday, 11:00 AM - 12:30 PM  
+- **Lab**: Friday, 2:00 PM - 5:00 PM  
+- **Venue**: LA001  
+- **Platform**: Piazza for discussions  
 
-**Venue**: LA 001
+**Note**: Schedule may change  
 
-**Grading**: **CS 213**
+---
 
-- Attendance quiz: 5% (half marks for attempt and half marks for 3+ options correct)
-- Quizzes: 25% (2 quizzes)
-- Midterm: 30% (2 hours)
-- Final: 40% (3 hours)
+## General Academic Guidelines
 
-**Grading**: **CS 293**
+### Academic Integrity
+- Strict adherence to academic honesty principles across all courses  
+- Severe penalties for violations (reported to DADAC)  
+- Givers and takers equally responsible  
+- Reference: [https://www.iitb.ac.in/newacadhome/procedures201521July.pdf](https://www.iitb.ac.in/newacadhome/procedures201521July.pdf)  
 
-- Attendance quiz: 5%
-- Lab exams: 25% (best 3 out of 4 lab exams)
-- Project: 20% (take home)
+### Communication Best Practices
+- Use proper email format with course codes in subject  
+- Always CC relevant TAs when emailing instructors  
+- Use official course platforms (Piazza/Moodle)  
+- Don't spam instructors  
+- Respond to urgent calls/messages outside class  
 
-**Quiz Dates (As of now)**:
+### Exam & Assessment Policies
+- For absences: Email with proper documentation ASAP  
+- Use official crib forms during exams (no emails)  
+- No open screens during lectures  
+- Come to class on time (5 minutes early preferred)  
+- Submit assignments on time via designated platforms  
 
-- Quiz 1: Wednesday, Aug 28, 08:30 AM
-- Quiz 2: Wednesday, Oct 23, 08:30 AM
-- Lab exam 1: 2024-08-23
-- Lab exam 2: 2024-09-15 04:00 PM - 07:00 PM  
-- Lab exam 3: 2024-10-18
-- Lab exam 4: 2024-11-08
-- Theory Midsem: Saturday, Sep 21, 01:30 PM - 03:30 PM
-- Theory Endsem: Friday, Nov 22, 08:30 AM - 11:30 AM
-- Project description declared: 2024-10-13 (Week 12)
-- Project submission deadline: 2024-11-10 (Week 14)
+### Study Guidelines
+- Attend lectures and take notes - slides don't contain everything  
+- Ask questions actively in/out of class  
+- Use office hours effectively  
+- Take responsibility for your own study  
 
-  
+---
 
-**Course Website(s)**:
+## Quick Links & Resources
 
-[**Link for all you need to know (Trust me, presently it is better than this repo for this course)**](https://www.cse.iitb.ac.in/~akg/courses/2024-ds/)
+### Course Websites
+- CS 215: [https://www.cse.iitb.ac.in/~ajitvr/CS215_Fall2025/](https://www.cse.iitb.ac.in/~ajitvr/CS215_Fall2025/)  
+- CS 230: [https://cs230-iitb.github.io/autumn-2025/](https://cs230-iitb.github.io/autumn-2025/)  
 
-### [CS 230](CS230) / [CS 231](CS231): Digital Logic Design and Computer Architecture
+### Communication Platforms
+- CS 230 Piazza: [https://piazza.com/iit_bombay/summer2025/cs230](https://piazza.com/iit_bombay/summer2025/cs230) (Access Code: cs230)  
+- CS 228 & CS 213/293: Piazza (links to be shared)  
 
-**Venue**: LH 102
+### Software & Tools
+- MATLAB Access: [http://matlab.iitb.ac.in/matlab/](http://matlab.iitb.ac.in/matlab/) (IITB network required)  
 
-**Grading**: **CS 230**
+### Academic Resources
+- CSE Department: [https://www.cse.iitb.ac.in/](https://www.cse.iitb.ac.in/)  
+- Academic Procedures: [https://www.iitb.ac.in/newacadhome/procedures201521July.pdf](https://www.iitb.ac.in/newacadhome/procedures201521July.pdf)  
+- Academic Punishments: [https://www.iitb.ac.in/newacadhome/punishments201521July.pdf](https://www.iitb.ac.in/newacadhome/punishments201521July.pdf)  
 
-- SAFE quizzes: every lecture/tutorial, 15%
-- Quizzes: (best 3 of 4) x 5% = 15%. Note: This is for actual quizzes (not safe attendance quizzes)
-- Midsem: 30%
-- Endsem: 40%
-- Negative marks for not being regular in watching videos, tutorials
+---
 
-**Grading**: **CS 231**
+## Important Reminders
+- CS 230: Tutorial and quiz dates decided by instructor, announced 1 week prior  
+- CS 215: 90%+ attendance mandatory across all courses with requirements  
+- CS 231: Labs may extend beyond allocated time  
+- Group TAs: Your first point of contact for CS 230  
+- Email Formats: Follow specific subject line formats for each course  
+- Academic Honesty: Zero tolerance across all courses  
 
-- In-Lab: 50%
-- Midsem: 20%
-- Endsem: 30%
+**Last Updated**: August 15, 2025  
 
-**Quiz Dates**:
-
-- Quiz 1 ( Digital Logic ): Friday, Aug 16, 08:30 AM - 09:30 AM
-- Quiz 2 (Computer Architecture): Thursday, Sep 12, 11:30 AM
-- Quiz 3 (Computer Architecture): Friday, Oct 12, 08:30 AM
-- Quiz 4 (Computer Architecture): Friday, Nov 8, 08:30 AM
-- Theory Midsem: Tuesday, Sep 17, 01:30 PM - 03:30 PM
-- Theory Endsem: Tuesday, Nov 12, 01:30 PM - 04:30 PM
-- Lab Midsem: Tuesday, Sep 24, 02:00 PM - 05:00 PM
-- Lab Endsem: Tuesday, Nov 5, 02:00 PM - 05:00 PM
-
-**Course Website(s)**:
-
-- [**BodhiTree**](https://robin.bodhi.cse.iitb.ac.in/courseware/course/59)
-- [**Prof. Sayandeep's Website**](https://sites.google.com/view/sayandeepsaha/digital-logic-and-computer-architecture-theory-lab)
-
-## [Popular Electives](PopularElectives)
-
-- **IE501**
-- **CS405**
-- **SI427**
-- **MA403**
-- **SI423**
-- **SC639**
+> Check individual course websites and Piazza regularly for latest announcements and updates.
